@@ -4,6 +4,7 @@ myDict = {
     "Assure" : "Confidently",
     "Bride" : "Wommen Wedding Form",
     "Fought" : "Past",
+    "Mango" : "Fruit"
     "Xerox" : "Photocopy"
 }
 print("Options are ", myDict.keys())
